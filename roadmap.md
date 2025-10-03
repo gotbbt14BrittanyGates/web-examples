@@ -18,3 +18,5 @@ Basic examples/templates for using WalletConnect SDKs
     ├── web3wallet-viem(TODO)
     └── web3wallet-wagmi(TODO)
 ```
+
+<!-- Auto-update: 2025-10-03T12:18:56.172568 -->
